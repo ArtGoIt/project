@@ -1,0 +1,20 @@
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.section {
+  padding: 100px 0;
+}
+
+.title {
+}
+
+.card {
+  display: flex;
+  gap: 24px;
+}
+
+.card-title {
+  font-style: italic;
+}
