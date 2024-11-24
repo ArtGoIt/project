@@ -5,3 +5,7 @@ h2 {
 p {
   color: teal;
 }
+
+.about-container {
+  width: 800px;
+}
